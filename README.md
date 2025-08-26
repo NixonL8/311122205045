@@ -38,6 +38,6 @@ WORKFLOWS :
 <img width="1447" height="773" alt="Screenshot 2025-08-26 153041" src="https://github.com/user-attachments/assets/d55b47ae-f601-41a1-a8c0-98229ea637b1" />
 <img width="1452" height="941" alt="Screenshot 2025-08-26 153114" src="https://github.com/user-attachments/assets/deeb89c4-a22e-40b0-9f31-0d62b06908cd" />
 <img width="1442" height="817" alt="Screenshot 2025-08-26 153131" src="https://github.com/user-attachments/assets/444ee534-24c5-4dc9-9bf5-11b4ee475c98" />
-<img width="1443" height="832" alt="Screenshot 2025-08-26 153058" src="https://github.com/user-attachments/assets/5e2a7961-209e-4796-85a9-b2c820c5d1a6" />
+
 
 
